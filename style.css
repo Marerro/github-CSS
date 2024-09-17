@@ -42,3 +42,15 @@ li a {
     border-radius:50px;
     border:1px solid black;
 }
+
+.container {
+    display:flex;
+    justify-content:center;
+    padding:400px;
+}
+
+.container__body {
+    width:60%;
+    border:5px dotted green;
+    padding:200px;
+}
